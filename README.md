@@ -19,10 +19,11 @@ Recetiin es una aplicación móvil desarrollada en **Swift** con **SwiftUI** que
 
 ## 🖼️ Capturas de pantalla
 
-<!-- Aquí puedes reemplazar con tus imágenes reales -->
-![Pantalla principal](https://via.placeholder.com/300x600?text=Pantalla+Principal)
-![Detalle de receta](https://via.placeholder.com/300x600?text=Detalle+de+Receta)
-![Agregar receta](https://via.placeholder.com/300x600?text=Agregar+Receta)
+
+<img width="401" height="779" alt="Captura de pantalla 2025-09-15 a las 12 10 31 p  m" src="https://github.com/user-attachments/assets/3ffbb957-6e1b-4fe0-878e-c1f678aed335" />
+<img width="381" height="776" alt="Captura de pantalla 2025-09-15 a las 12 11 26 p  m" src="https://github.com/user-attachments/assets/353fbe69-60c5-43bf-a62f-c67a70e4065b" />
+<img width="428" height="779" alt="Captura de pantalla 2025-09-15 a las 12 11 52 p  m" src="https://github.com/user-attachments/assets/e9452349-5717-449b-b15e-2af580ee1c81" />
+
 
 ---
 
